@@ -5,7 +5,11 @@ First assignment at Systems Programing 2 course
 In this assignment we required to create an Array with ability to store a data at any unnegative index.
 
 ### Functions:
-‫‪CreateAdptArray‬‬(): Initilaize an empty array.\n
+‫‪CreateAdptArray‬‬(): Initilaize an empty array.<br /><br />
+‫‪DeleteAdptArray‬‬(): Free the memory alloc of the array and its elements.<br /><br />
+‫‪SetAdptArrayAt‬‬(): 
+
+
 
 
 
